@@ -1,0 +1,20 @@
+.del{
+
+    border: 45px;
+    color: brown;
+    border-radius: 8px;
+
+
+
+}
+
+.del {
+    border: 2px solid purple; 
+    color: #000; 
+  }
+
+  
+  .btn.btn-light.del {
+    border-radius: 8px; 
+
+  }
